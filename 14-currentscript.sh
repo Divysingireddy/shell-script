@@ -1,6 +1,6 @@
 #!/bin/bash
 
-COURSE="Devops with aws Course"
+COURSE="Devops with aws"
 
 echo "Before calling other scripts: $COURSE"
 echo "Process id of the current script: $$"
